@@ -134,7 +134,7 @@ Também desenvolvo ferramentas com **JavaScript, Node.js, PowerShell e SQL**, bu
       <h3>🌐 Portfólio pessoal</h3>
       <p>Apresentação dos meus projetos, experiências e soluções nas áreas de infraestrutura, cloud e desenvolvimento.</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <p><a href="https://portfolio-joeyrickson11.vercel.app/">🌐 Abrir portfólio</a> · <a href="https://github.com/JoeyRickson/portfolio">💻 Ver código</a></p>
+      <p><a href="https://joeyrickson-portfolio.vercel.app/">🌐 Abrir portfólio</a> · <a href="https://github.com/JoeyRickson/portfolio">💻 Ver código</a></p>
     </td>
   </tr>
   <tr>
@@ -182,10 +182,13 @@ Também desenvolvo ferramentas com **JavaScript, Node.js, PowerShell e SQL**, bu
 </div>
 
 <details>
-  <summary><strong>📊 Abrir gráfico de atividades recentes</strong></summary>
+  <summary><strong>📊 Abrir panorama de contribuições</strong></summary>
   <br />
   <div align="center">
-    <img width="100%" alt="Gráfico de atividade do GitHub" src="https://github-readme-activity-graph.vercel.app/graph?username=JoeyRickson&bg_color=0D1117&color=94A3B8&line=0891B2&point=22D3EE&area=true&area_color=164E63&hide_border=true&radius=10" />
+    <a href="https://github.com/JoeyRickson?tab=overview">
+      <img width="100%" alt="Resumo das contribuições no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoeyRickson&amp;theme=tokyonight" />
+    </a>
+    <p><sub>O cartão é gerado por um serviço externo. Se não carregar, <a href="https://github.com/JoeyRickson?tab=overview">veja seu gráfico oficial de contribuições no GitHub</a>.</sub></p>
   </div>
 </details>
 
@@ -198,7 +201,7 @@ Também desenvolvo ferramentas com **JavaScript, Node.js, PowerShell e SQL**, bu
   <p><sub>Joey Rickson · Cloud · Infraestrutura · Automação · Desenvolvimento</sub></p>
 
   <a href="https://www.linkedin.com/in/joeyrickgoliveira/">LinkedIn</a> ·
-  <a href="https://portfolio-joeyrickson11.vercel.app/">Portfólio</a> ·
+  <a href="https://joeyrickson-portfolio.vercel.app/">Portfólio</a> ·
   <a href="https://github.com/JoeyRickson?tab=repositories">Projetos</a>
 
   <img width="100%" alt="Rodapé decorativo azul em formato de onda" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:081221,50:124577,100:0891B2&animation=fadeIn" />
