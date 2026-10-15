@@ -177,7 +177,6 @@ Também desenvolvo ferramentas com **JavaScript, Node.js, PowerShell e SQL**, bu
     <img height="165" alt="Linguagens utilizadas nos repositórios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyRickson&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155" />
   </picture>
 
-  <sub>Os cartões são carregados por serviços externos e podem ficar indisponíveis temporariamente.</sub>
 
 </div>
 
