@@ -9,7 +9,7 @@
 
 **Infraestrutura de TI · Cloud · Redes e Segurança · Automação · Desenvolvimento**
 
-<a href="https://portfolio-joeyrickson11.vercel.app/">
+<a href="https://joeyrickson-portfolio.vercel.app/">
   <img alt="Meu portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/joeyrickgoliveira/">
